@@ -1,3 +1,6 @@
+/*
+Author: Abigail Miller
+*/
 #include <iostream>
 #include <string>
 
